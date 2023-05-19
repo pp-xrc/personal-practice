@@ -1,0 +1,11 @@
+.bg {
+  width: 100px;
+  height: 200px;
+  background-color: aqua;
+  h2 {
+    color: yellow;
+    .hh {
+      color: red;
+    }
+  }
+}
